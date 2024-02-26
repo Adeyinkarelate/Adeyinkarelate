@@ -18,6 +18,10 @@ I'm a seasoned data analyst with a robust foundation in datasciece, equipped wit
 
 🔭 I’m currently working on [Adexbits ](https://www.adexbit.com.ng/)
 
+### Examples of work
+<img src="https://github.com/Adeyinkarelate/Adeyinkarelate/blob/main/images/a.png" width="256">
+<img src="https://github.com/Adeyinkarelate/Adeyinkarelate/blob/main/images/b.png" width="256">
+<img src="https://github.com/Adeyinkarelate/Adeyinkarelate/blob/main/images/c.png" width="256">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adeyinkarelate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Adeyinkarelate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/muritala-muyideen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mmbs.vercel.app/index.html)  
 
