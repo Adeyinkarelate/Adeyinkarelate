@@ -8,6 +8,7 @@ I'm a seasoned data analyst with a robust foundation in datasciece, equipped wit
 * 💻 Html ,Css,JavaScripts, Tailwind ,Django
 * 🧑‍💻 Python and R programmming
 * 🛢️ SQL ,MongoDB
+* 🖋️ SAS , Google Analytics
 
 ### What I Bring to the Table:
 * Data Analysis: Proficient in gathering, processing, and interpreting data to extract valuable insights.
