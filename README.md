@@ -9,7 +9,6 @@ I'm a seasoned data analyst with a robust foundation in datasciece, equipped wit
 * 🧑‍💻 Python and R programmming
 * 🛢️ SQL ,MongoDB
 
-  
 ### What I Bring to the Table:
 * Data Analysis: Proficient in gathering, processing, and interpreting data to extract valuable insights.
 * Market Analysis: Experienced in understanding business needs, defining KPIs,Digital Marketting skills and aligning data analytics efforts with organizational objectives.
@@ -17,7 +16,7 @@ I'm a seasoned data analyst with a robust foundation in datasciece, equipped wit
 * Communication: Effective at conveying findings and recommendations to diverse stakeholders, facilitating informed decision-making processes.
 * Full-stack web development knowlege
 
-- 🔭 I’m currently working on [Adexbits ](https://www.adexbit.com.ng/)
+🔭 I’m currently working on [Adexbits ](https://www.adexbit.com.ng/)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Adeyinkarelate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/Adeyinkarelate)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/muritala-muyideen/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mmbs.vercel.app/index.html)  
