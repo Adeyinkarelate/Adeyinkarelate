@@ -1,4 +1,4 @@
-![Data Analyst & Full-stack web developer](https://media.licdn.com/dms/image/D4D16AQEy4YUYxl9UuA/profile-displaybackgroundimage-shrink_350_1400/0/1708951855550?e=1714608000&v=beta&t=P-0ZIz8uAlJxCJZkdO32Lm6B_nhGn6Rn0IujAZ6wp-w)
+![Data Analyst & Full-stack web developer](https://media.licdn.com/dms/image/D4D16AQEy4YUYxl9UuA/profile-displaybackgroundimage-shrink_350_1400/0/1708951855550?e=1724284800&v=beta&t=maH2Q0HwfpLgMX0HU-q-31kdQreMYsmC0XDUz9beQbM)
 
 # Muritala Muhydeen Babatunde
 I'm a seasoned data analyst with a robust foundation in datasciece, equipped with expertise in full-stack web development. My professional journey revolves around collecting, analyzing, and visualizing data to drive strategic decision-making and enhance operational efficiency.
