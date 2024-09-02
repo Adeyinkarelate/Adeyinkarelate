@@ -5,7 +5,7 @@ I'm a seasoned data analyst with a robust foundation in datasciece, equipped wit
 
 ## Skills & Experience
 * 🧾 Power Bi , Tableau
-* 💻 Html ,Css,JavaScripts, Tailwind ,Django
+* 💻 Html ,Css,JavaScripts, Tailwind ,Django ,React..
 * 🧑‍💻 Python and R programmming
 * 🛢️ SQL ,MongoDB
 * 🖋️ SAS , Google Analytics
